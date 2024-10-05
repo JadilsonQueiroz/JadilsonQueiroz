@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @mr-costaalencar
+- 👀 I’m interested in games, dogs, and books.
+- 🌱 I’m currently learning React Native, Design Patterns, and Node.js.
+- 💞️ I’m looking to collaborate on Mobile apps development.
+- 📫 How to reach me linkedin.com/in/renancostaalencar
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm annoying but I'm nice.
+
+- Olá, @JadilsonQueiroz
+- Eu sou interessado em apender conteudos novos.
+- Eu estou aprendendo atualmente React Native, Design Patterns e Node.js.
